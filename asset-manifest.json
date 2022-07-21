@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.4f423e35.chunk.css",
+    "main.js": "/portfolio-website/static/js/main.13e3c0f1.chunk.js",
+    "main.js.map": "/portfolio-website/static/js/main.13e3c0f1.chunk.js.map",
+    "runtime-main.js": "/portfolio-website/static/js/runtime-main.372c8731.js",
+    "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.372c8731.js.map",
+    "static/js/2.fe33f338.chunk.js": "/portfolio-website/static/js/2.fe33f338.chunk.js",
+    "static/js/2.fe33f338.chunk.js.map": "/portfolio-website/static/js/2.fe33f338.chunk.js.map",
+    "index.html": "/portfolio-website/index.html",
+    "static/css/main.4f423e35.chunk.css.map": "/portfolio-website/static/css/main.4f423e35.chunk.css.map",
+    "static/js/2.fe33f338.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.fe33f338.chunk.js.LICENSE.txt",
+    "static/media/MERN.39d4f786.png": "/portfolio-website/static/media/MERN.39d4f786.png",
+    "static/media/blog01.cefc0932.png": "/portfolio-website/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/portfolio-website/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/portfolio-website/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/portfolio-website/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/portfolio-website/static/media/blog05.bfaa1c1e.png",
+    "static/media/discord.2f26b122.png": "/portfolio-website/static/media/discord.2f26b122.png",
+    "static/media/guitar.205a6919.png": "/portfolio-website/static/media/guitar.205a6919.png",
+    "static/media/itchio.1edfd4ac.png": "/portfolio-website/static/media/itchio.1edfd4ac.png",
+    "static/media/nuft.5e95360d.jpg": "/portfolio-website/static/media/nuft.5e95360d.jpg",
+    "static/media/react.20adfb35.png": "/portfolio-website/static/media/react.20adfb35.png",
+    "static/media/reddit.431b7810.png": "/portfolio-website/static/media/reddit.431b7810.png",
+    "static/media/unity.32e013c5.png": "/portfolio-website/static/media/unity.32e013c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.372c8731.js",
+    "static/js/2.fe33f338.chunk.js",
+    "static/css/main.4f423e35.chunk.css",
+    "static/js/main.13e3c0f1.chunk.js"
+  ]
+}
