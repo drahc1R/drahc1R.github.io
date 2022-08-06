@@ -11,6 +11,10 @@ import react from '../../assets/react.png';
 import MERN from '../../assets/MERN.png';
 import nuft from '../../assets/nuft.jpg';
 import itchio from '../../assets/itchio.png';
+import youtube from '../../assets/youtube.png';
+import nuse from '../../assets/nuse.png';
+import messenger from '../../assets/messenger.png';
+import friday from '../../assets/friday.jpg';
 
 export {
   blog01,
@@ -25,4 +29,8 @@ export {
   MERN,
   nuft,
   itchio,
+  youtube,
+  nuse,
+  messenger,
+  friday,
 };
