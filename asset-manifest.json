@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.549869bf.chunk.css",
-    "main.js": "/static/js/main.b16edbec.chunk.js",
-    "main.js.map": "/static/js/main.b16edbec.chunk.js.map",
+    "main.js": "/static/js/main.c81cecf4.chunk.js",
+    "main.js.map": "/static/js/main.c81cecf4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d927202d.js",
     "runtime-main.js.map": "/static/js/runtime-main.d927202d.js.map",
     "static/js/2.fe33f338.chunk.js": "/static/js/2.fe33f338.chunk.js",
@@ -19,7 +19,9 @@
     "static/media/discord.2f26b122.png": "/static/media/discord.2f26b122.png",
     "static/media/guitar.205a6919.png": "/static/media/guitar.205a6919.png",
     "static/media/itchio.1edfd4ac.png": "/static/media/itchio.1edfd4ac.png",
+    "static/media/messenger.e59bec0c.png": "/static/media/messenger.e59bec0c.png",
     "static/media/nuft.5e95360d.jpg": "/static/media/nuft.5e95360d.jpg",
+    "static/media/nuse.adb831eb.png": "/static/media/nuse.adb831eb.png",
     "static/media/react.20adfb35.png": "/static/media/react.20adfb35.png",
     "static/media/reddit.431b7810.png": "/static/media/reddit.431b7810.png",
     "static/media/unity.32e013c5.png": "/static/media/unity.32e013c5.png"
@@ -28,6 +30,6 @@
     "static/js/runtime-main.d927202d.js",
     "static/js/2.fe33f338.chunk.js",
     "static/css/main.549869bf.chunk.css",
-    "static/js/main.b16edbec.chunk.js"
+    "static/js/main.c81cecf4.chunk.js"
   ]
 }
