@@ -53,10 +53,10 @@ const Blog = () => (
         />
         <Article
           imgUrl={friday}
-          link="https://github.com/drahc1R/FridayFood"
+          link="https://friday-food.herokuapp.com"
           date="July 2022"
           text="The Friday Food E-commerce Website"
-          description="An e-commerce website developed with the MERN stack for the Friday Food Service. Under construction."
+          description="A full stack e-commerce website developed with the MERN stack for the Friday Food Service."
         />
         <Article
           imgUrl={discord}
