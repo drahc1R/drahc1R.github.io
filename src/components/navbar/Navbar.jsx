@@ -1,3 +1,5 @@
+// To update resume: update the link, push, and then run: npm run deploy. change build folder from gh-pages to main to gh-pages to redeploy.
+
 import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import './navbar.css';
