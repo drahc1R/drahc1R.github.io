@@ -16,7 +16,7 @@ const Navbar = () => {
       </div>
       <div className="gpt3__navbar-sign">
         <p>
-          <a href="https://drive.google.com/file/d/1Q1Hx_x3WCl_5sq1enwHqKH1AGliRoecr/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1WfiAVct559UYRwqP1UdG_AzezrPARNHz/view?usp=sharing">
             Resume
           </a>
         </p>
@@ -51,7 +51,7 @@ const Navbar = () => {
             </div>
             <div className="gpt3__navbar-menu_container-links-sign">
               <p>
-                <a href="https://drive.google.com/file/d/1zcFlZcdKg-L2rAx3iP4zxqH6qkGX4MUQ/view?usp=sharing">
+                <a href="https://drive.google.com/file/d/1WfiAVct559UYRwqP1UdG_AzezrPARNHz/view?usp=sharing">
                   Resume
                 </a>
               </p>
